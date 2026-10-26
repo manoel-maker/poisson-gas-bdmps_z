@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the paper below."
+title: "poisson-gas-bdmps_z: Monte Carlo for the BDMPS-Z spectrum as an average over Poisson-distributed Gaussian scattering centers"
+authors:
+  - family-names: "Rodríguez Calvo"
+    given-names: "Manoel"
+    affiliation: "Universidad Nacional de Educación a Distancia (UNED)"
+license: MIT
+repository-code: "https://github.com/manoel-maker/poisson-gas-bdmps_z"
+preferred-citation:
+  type: article
+  title: "A Poisson-gas approach to medium-induced gluon radiation"
+  authors:
+    - family-names: "Rodríguez Calvo"
+      given-names: "Manoel"
+      affiliation: "Universidad Nacional de Educación a Distancia (UNED)"
+  year: 2026
+  # doi: "10.5281/zenodo.XXXXXXX"   (añadir cuando exista)
