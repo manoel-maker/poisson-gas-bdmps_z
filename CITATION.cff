@@ -5,6 +5,7 @@ authors:
   - family-names: "Rodríguez Calvo"
     given-names: "Manoel"
     affiliation: "Universidad Nacional de Educación a Distancia (UNED)"
+    orcid: "https://orcid.org/0000-0002-7003-7912"
 license: MIT
 repository-code: "https://github.com/manoel-maker/poisson-gas-bdmps_z"
 preferred-citation:
@@ -14,5 +15,9 @@ preferred-citation:
     - family-names: "Rodríguez Calvo"
       given-names: "Manoel"
       affiliation: "Universidad Nacional de Educación a Distancia (UNED)"
+      orcid: "https://orcid.org/0000-0002-7003-7912"
   year: 2026
-  # doi: "10.5281/zenodo.XXXXXXX"   (añadir cuando exista)
+  publisher:
+    name: "Zenodo"
+  doi: "10.5281/zenodo.23655009"
+  url: "https://zenodo.org/records/23655009"

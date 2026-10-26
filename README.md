@@ -5,7 +5,7 @@ Python package `bdmps_mc`.
 Monte Carlo evaluation of the BDMPS-Z medium-induced gluon spectrum in the soft-gluon limit for a Yukawa (Gyulassy–Wang)
 potential, to all orders in opacity, for static and expanding media with arbitrary profiles $n(s)$, $\mu(s)$.
 
-The method is described in the accompanying paper: M. R. Calvo, *A Poisson-gas approach to medium-induced gluon radiation*, [DOI to be added]. In short: the Yukawa dipole cross section is
+The method is described in the accompanying paper: M. R. Calvo, *A Poisson-gas approach to medium-induced gluon radiation*, Zenodo, doi:[10.5281/zenodo.23655009](https://doi.org/10.5281/zenodo.23655009) (2026). In short: the Yukawa dipole cross section is
 written as a Laplace superposition of Gaussians, so that the medium becomes a Poisson gas of Gaussian scattering centers. Each
 configuration is solved in closed form, and the spectrum is the average over configurations:
 
@@ -55,4 +55,4 @@ MIT (see `LICENSE`). NumPy and SciPy are BSD-licensed.
 
 ## Citation
 
-If you use this code, please cite the paper (see `CITATION.cff`): M. R. Calvo, *A Poisson-gas approach to medium-induced gluon radiation*, [DOI to be added].
+If you use this code, please cite the paper (see `CITATION.cff`): M. R. Calvo, *A Poisson-gas approach to medium-induced gluon radiation*, Zenodo, doi:[10.5281/zenodo.23655009](https://doi.org/10.5281/zenodo.23655009) (2026).
